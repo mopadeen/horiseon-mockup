@@ -1,7 +1,6 @@
 # Horiseon
 A mockup of a landing page for the marketing agency, Horiseon.
 
-# Table Of Contents
 
 # Screenshots
 ![!\[Alt text\](image-1.png)](assets/images/image.png)
